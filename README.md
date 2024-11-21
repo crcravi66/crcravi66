@@ -50,6 +50,10 @@ Want to join the journey or collaborate on something awesome? Reach out!
 
 
 ---
+## ⚡ GitHub Stats:
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=crcravi66&show_icons=true&theme=radical)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=crcravi66&color=blue)
 
 
 
