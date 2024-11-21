@@ -1,6 +1,6 @@
 # 🚀 The Journey of Becoming a Pro Developer | Arun pandi 🖥️ 
 
-Hey there! 👋 My name’s Arun, and I’m manifesting my way into becoming a professional Full-Stack Web Developer. This is my journey — from aspiring to becoming world-class. I believe in relentless growth, harnessing the **Mamba Mentality** of never stopping until every goal is conquered. Building, breaking, and creating — every line of code is a step toward greatness.
+Hey there! 👋 My name’s Arun, and I’m manifesting my way into becoming a professional Full-Stack Web Developer. This is my journey — from aspiring to becoming world-class. Building, breaking, and creating — every line of code is a step toward greatness.
 
 I’m on a mission: from dream to deployment, from beginner to expert, every challenge is an opportunity to learn, grow, and thrive. The vision? **Creating technology that inspires, educates, and elevates.**
 
@@ -14,7 +14,7 @@ I work with modern, powerful tools to bring ideas to life. Here’s my weaponry:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![bootsrap](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![bootsrap](https://img.shields.io/badge/-Bootsrap-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 
 ### Backend 🔧
@@ -26,11 +26,6 @@ I work with modern, powerful tools to bring ideas to life. Here’s my weaponry:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
-
-
-### Future Focus 🔮: Embedded Systems & VR
-- **C++** and **Embedded Systems** for IoT and low-level hardware programming.
-- Diving into **Virtual Reality (VR)** development, exploring immersive user experiences with cutting-edge tech.
 
 ---
 
